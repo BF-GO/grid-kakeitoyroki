@@ -24,4 +24,17 @@
 
 	--color-pink-dark: #e84393;
 	--color-pink-light: #fd79a8;
+
+	--font-family-b: InterB, Arial, sans-serif;
+	--font-family-m: InterM, Arial, sans-serif;
+	--font-family-r: InterR, Arial, sans-serif;
+	--font-family-l: InterL, Arial, sans-serif;
+
+	--animation-speed: 0.3s;
+	--animation-func: ease;
+	--animation: var(--animation-speed) var(--animation-func);
+}
+
+body {
+	margin: 0;
 }
